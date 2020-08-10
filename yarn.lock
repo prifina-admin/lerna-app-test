@@ -1544,10 +1544,10 @@
     "@types/yargs" "^15.0.0"
     chalk "^3.0.0"
 
-"@lerna-test2/package-3@^1.0.20-alpha.0":
-  version "1.0.20-alpha.0"
-  resolved "https://registry.yarnpkg.com/@lerna-test2/package-3/-/package-3-1.0.20-alpha.0.tgz#b16cbcbaa012e3fd8610d92ce8c6ae5e05d0b0f2"
-  integrity sha512-cL+9k09lOwDkKph1mb4wzUOgei/1Cn8iyUR/5MeIqMNbXzH7YYK09Xbtn/5YEE9mx81ZL4TpXiIOg39D9g9S/A==
+"@lerna-test2/package-3@1.0.26-alpha.0":
+  version "1.0.26-alpha.0"
+  resolved "https://registry.yarnpkg.com/@lerna-test2/package-3/-/package-3-1.0.26-alpha.0.tgz#4a97feb98258d6168fde5cba18f9227c8936366c"
+  integrity sha512-fSILkdyBlZJke3pbZOl22+SMELFBKqXxXgLe9u6dV67yZNyLMeUCkTZvxtdQgTDxTd5tLtSQm8kzA1mwMQmgsw==
   dependencies:
     "@blend-ui/icons" "^1.0.5"
     "@reach/auto-id" "^0.10.5"
